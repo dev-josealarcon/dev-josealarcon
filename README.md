@@ -36,7 +36,7 @@
 ## 📈 Knowledge:
 ![PMBOK](https://img.shields.io/badge/PMBOK%207th-1?style=for-the-badge&color=%23000)
 ![ITIL](https://img.shields.io/badge/ITIL%20v4-1?style=for-the-badge&color=%23000)
-![SCRUM](https://img.shields.io/badge/ITIL-1?style=for-the-badge&color=%23000)
+![SCRUM](https://img.shields.io/badge/SCRUM-1?style=for-the-badge&color=%23000)
 ![UML](https://img.shields.io/badge/uml-1?style=for-the-badge&color=%23000)
 ![ISMS](https://img.shields.io/badge/ISMS-1?style=for-the-badge&color=%23000)
 
